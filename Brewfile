@@ -32,7 +32,6 @@ install homebrew/dupes/screen
 # Install other useful binaries
 install git
 install node # This installs `npm` too using the recommended installation method
-install cask
 
 # Remove outdated versions from the cellar
 cleanup
