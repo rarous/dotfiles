@@ -15,12 +15,10 @@ cask install java 2> /dev/null
 cask install lighttable 2> /dev/null
 cask install github 2> /dev/null
 cask install heroku-toolbelt 2> /dev/null
-cask install amazon-cloud-drive 2> /dev/null
 cask install amazon-music 2> /dev/null
 cask install beatport-pro 2> /dev/null
-cask install evernote 2> /dev/null
 cask install firefox 2> /dev/null
 cask install fitbit-connect 2> /dev/null
 cask install jing 2> /dev/null
 cask install lastfm 2> /dev/null
-cask install onepassword2> /dev/null
+cask install onepassword 2> /dev/null
